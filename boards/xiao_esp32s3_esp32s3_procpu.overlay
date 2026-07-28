@@ -1,0 +1,9 @@
+/* DEVICETREE-MANAGER-BEGIN: generated region, do not edit inside this block */
+&usb_serial {
+    status = "okay";
+};
+
+&uart0 {
+    status = "disabled";
+};
+/* DEVICETREE-MANAGER-END */
