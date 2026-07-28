@@ -14,7 +14,7 @@ int main(void)
 {
     while (1)
     {
-       	printf("World! %s\n", CONFIG_BOARD_TARGET);
+       	printf("Hello World! %s\n", CONFIG_BOARD_TARGET);
         k_msleep(100);
     }
     
