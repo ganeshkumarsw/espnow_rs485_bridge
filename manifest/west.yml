@@ -20,5 +20,3 @@ manifest:
           - hal_espressif
           - hal_xtensa
       revision: v4.4.1
-  self:
-    path: manifest
