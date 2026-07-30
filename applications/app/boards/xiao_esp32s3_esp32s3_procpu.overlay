@@ -4,6 +4,7 @@
 };
 
 &uart0 {
-    status = "disabled";
+    status = "okay";
+    hw-rs485-hd-mode;
 };
 /* DEVICETREE-MANAGER-END */
