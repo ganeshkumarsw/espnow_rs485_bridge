@@ -2,4 +2,9 @@
 &usb_serial {
     status = "okay";
 };
+
+&uart0 {
+    status = "disabled";
+    hw-rs485-hd-mode;
+};
 /* DEVICETREE-MANAGER-END */

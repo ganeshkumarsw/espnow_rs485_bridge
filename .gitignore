@@ -1,5 +1,6 @@
 .venv/
+.west/
 external
+deps/
 **/build*/
-.vscode/compile_commands.json
-.vscode/extensions.json
+.vscode/

@@ -9,14 +9,11 @@ manifest:
       import:
         path-prefix: deps
         name-allowlist:
-          - cmsis_6
-          - percepio
           - picolibc
           - mcuboot
-          - trusted-firmware-m
-          - segger
           - mbedtls
           - tf-psa-crypto
           - hal_espressif
           - hal_xtensa
-      revision: v4.4.1
+          - littlefs
+      revision: b04994206c693adfa9d5e4f1276a05b9d038a303
